@@ -1,6 +1,6 @@
 {
   "name": "react-flow-player",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "React component for embeding flow player",
   "main": "dist/react-flow-player.js",
   "scripts": {
@@ -14,16 +14,16 @@
     "react player component",
     "react player"
   ],
-  "author": "Aman Agarwal <agarwal.aman041@gmail.com> (https://github.com/AmanAgarwal041/)",
+  "author": "Mohsin Khan <mohsinqayyumkhan@gmail.com> (https://github.com/cassini-mohsin)",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gradeup/react-flow-player"
+    "url": "git+https://github.com/cassini-mohsin/react-flow-player"
   },
   "bugs": {
-    "url": "https://github.com/gradeup/react-flow-player/issues"
+    "url": "https://github.com/cassini-mohsin/issues"
   },
-  "homepage": "https://github.com/gradeup/react-flow-player#readme",
+  "homepage": "https://github.com/cassini-mohsin/react-flow-player#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
